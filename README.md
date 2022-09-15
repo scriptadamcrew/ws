@@ -1,4 +1,4 @@
-# Script Nakata143 Remoded
+# Script Nakata143
  Welcome Dear😊
 
  <h2 align="center">AutoScript VPN By Nakata143 <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
